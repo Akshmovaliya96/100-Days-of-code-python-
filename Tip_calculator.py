@@ -1,1 +1,1 @@
-bh
+print("Tip")
